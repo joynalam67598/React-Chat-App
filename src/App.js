@@ -11,7 +11,7 @@ const App = () => {
     return (
         <ChatEngine
             height="100vh"
-            projectID="6d709f25-7262-4da0-a9d2-6a3176ddc073"
+            projectID="xxx-xxx-xxxx-xxxxxx-xxxxx-xxxx"
             userName={localStorage.getItem('username')}
             userSecret={localStorage.getItem('password')}
             // customize middle field chat feed

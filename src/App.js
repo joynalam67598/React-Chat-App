@@ -6,7 +6,7 @@ const App = () => {
     return (
         <ChatEngine
             height="100vh"
-            projectID="6d709f25-7262-4da0-a9d2-6a3176ddc073"
+            projectID="xxxxx-xxxx-xxx--xx-xxx---xxxx"
             userName="Rakib"
             userSecret="123123"
             // customize middle field chat feed
